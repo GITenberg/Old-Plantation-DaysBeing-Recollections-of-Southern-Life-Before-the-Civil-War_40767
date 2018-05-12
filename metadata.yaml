@@ -1,0 +1,34 @@
+_repo: Old-Plantation-DaysBeing-Recollections-of-Southern-Life-Before-the-Civil-War_40767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40767-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Saussure, N. B. (Nancy Bostick)
+    aliases:
+    - Saussure, N. B. De (Nancy Bostick De)
+    - De Saussure, Nancy Bostick
+    birthdate: 1837
+    deathdate: 1915
+    gutenberg_agent_id: '40812'
+    url: http://www.gutenberg.org/2009/agents/40812
+description: ''
+gutenberg_issued: '2012-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40767'
+  lccn: '10000185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plantation life'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'F206'
+- !lcsh 'South Carolina -- Social life and customs'
+title: 'Old Plantation Days: Being Recollections of Southern Life Before the Civil
+  War'
+url: http://www.gutenberg.org/ebooks/40767
